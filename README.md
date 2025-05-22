@@ -35,8 +35,10 @@ discussion and meetup informal
 ### **Features needed:**  
 - Admin dashboard  
 - RSVP tracking  
-- Automated updates  
+- Automated updates
+  
+---
 
 
-### Generated layout design
+## Generated layout design
 We used chat GPT to generate [the layout design](./GPT_layout_ideas.md)

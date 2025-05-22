@@ -48,3 +48,6 @@ We used chat GPT to generate [the layout design](./GPT_layout_ideas.md)
 
 ### Mobile
 ![mobile-wireframe](./Mobile-wireframe.png)
+
+### Tablet
+![mobile-wireframe](./Tablet-wireframe.png)

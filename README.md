@@ -38,4 +38,5 @@ discussion and meetup informal
 - Automated updates  
 
 
-
+### Generated layout design
+We used chat GPT to generate [the layout design](./GPT_layout_ideas.md)

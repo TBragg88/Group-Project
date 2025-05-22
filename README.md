@@ -42,3 +42,9 @@ discussion and meetup informal
 
 ## Generated layout design
 We used chat GPT to generate [the layout design](./GPT_layout_ideas.md)
+
+---
+# Wireframes
+
+### Mobile
+![mobile-wireframe](./Mobile-wireframe.png)
